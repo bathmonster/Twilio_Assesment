@@ -1,0 +1,22 @@
+
+Time of Message: 21-08-11 19:26:11   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: sent
+Time of Message: 21-08-11 19:26:13   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:44:12   To: +61478765114   From: +14157232947   SID: SM141b11eedb2b417190decdeb4dee952d   Status: sent
+Time of Message: 21-08-11 19:44:15   To: +61478765114   From: +14157232947   SID: SM141b11eedb2b417190decdeb4dee952d   Status: delivered
+Time of Message: 21-08-11 19:51:36   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:36   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:36   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:37   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:37   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:37   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:51:37   To: +61478765114   From: +14157232947   SID: SMe4cb090c3f1040fe883afbc8b9910d6e   Status: delivered
+Time of Message: 21-08-11 19:57:05   To: +61478765114   From: +14157232947   SID: SM5162701dd7a54e12bc2baa8fbfc1b3a7   Status: sent
+Time of Message: 21-08-11 19:57:07   To: +61478765114   From: +14157232947   SID: SM349f3366b5ab4324b65e7c51ac1a6bc0   Status: sent
+Time of Message: 21-08-11 19:57:08   To: +61478765114   From: +14157232947   SID: SM5162701dd7a54e12bc2baa8fbfc1b3a7   Status: delivered
+Time of Message: 21-08-11 19:57:09   To: +61478765114   From: +14157232947   SID: SM349f3366b5ab4324b65e7c51ac1a6bc0   Status: delivered
+Time of Message: 21-08-11 19:59:08   To: +61478765114   From: +14157232947   SID: SM7995e10bfaef44659612ed080887a7d3   Status: sent
+Time of Message: 21-08-11 19:59:08   To: +61478765114   From: +14157232947   SID: SM37c8a3af881142f2aedef20a9cb38f82   Status: sent
+Time of Message: 21-08-11 19:59:11   To: +61478765114   From: +14157232947   SID: SM7995e10bfaef44659612ed080887a7d3   Status: delivered
+Time of Message: 21-08-11 19:59:12   To: +61478765114   From: +14157232947   SID: SM37c8a3af881142f2aedef20a9cb38f82   Status: delivered
+Time of Message: 21-08-11 19:59:35   To: +61478765114   From: +14157232947   SID: SM9c6b096f73b74fdd97518263a0613dc1   Status: sent
+Time of Message: 21-08-11 19:59:40   To: +61478765114   From: +14157232947   SID: SM9c6b096f73b74fdd97518263a0613dc1   Status: delivered
